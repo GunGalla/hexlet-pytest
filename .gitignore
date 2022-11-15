@@ -1,0 +1,14 @@
+# ignore virtual enviroment
+.venv
+
+# ignore cache
+__pycache__
+
+# ignore test build
+dist/
+
+# ignore vscode files
+.vscode
+
+# ignore pycharm files
+.idea/
